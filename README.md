@@ -1,4 +1,4 @@
-# algebra_calculator
+# Algebra_Calculator
 
 It’s possible to solve an equation numerically, by substituting numbers for its variables.
 It’s also possible to solve an equation symbolically, by using algebra. For example, to solve
